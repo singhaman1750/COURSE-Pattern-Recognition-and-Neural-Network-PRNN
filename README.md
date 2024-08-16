@@ -1,4 +1,4 @@
-# Pattern-Recognition-and-Neural-Network-NPTEL
+# Pattern-Recognition-and-Neural-Network
 
 Playlist Link: [[Link](https://www.youtube.com/playlist?list=PLEAYkSg4uSQ2If6TxjdzohtKIbelAKCCu)]
 
